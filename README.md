@@ -4,3 +4,5 @@
 ### Clash Verge
 ### 项目地址
  https://github.com/clash-verge-rev/clash-verge-rev 
+## 机场推荐
+https://cshjc.top/web/#/login?code=XgsxLk4p
